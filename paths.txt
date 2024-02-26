@@ -1,0 +1,5 @@
+ files = [
+        Path("D:\Sem 8\SQA\Assignments\Assignment1\CaterpilerGame.py"),
+        Path("D:\Sem 8\SQA\Assignments\Assignment1\Translator\translator.py"),
+        Path("D:\Sem 8\SQA\Assignments\Assignment1\RockPaperScissors.py"),
+    ]
